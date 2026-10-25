@@ -1,0 +1,6 @@
+{
+  "name": "TopUp Zone BD - Gaming Top-Up Store",
+  "description": "Fast, reliable gaming top-up store in Bangladesh for Free Fire Diamonds, PUBG Mobile UC, Mobile Legends, and FC Mobile with bKash, Nagad, and Rocket payment instructions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
